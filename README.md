@@ -26,7 +26,7 @@ Pronto estaré compartiendo contenido en mi [canal de Twitch]([enlace_a_tu_twitc
 
 ## 📫 Cómo contactarme
 
-- Twitter: [@jaco_dev]([enlace_a_tu_twitter](https://x.com/Jaco_Dev))
-- LinkedIn: [Jadir en Linkendin]([https://www.linkedin.com/in/jacoher/))
+- [Twitter](https://x.com/Jaco_Dev)
+- [LinkedIn](https://www.linkedin.com/in/jacoher/)
 
 ¡Gracias por visitar mi perfil!
