@@ -16,7 +16,7 @@ Soy un desarrollador apasionado por la **programación**, el **open source** y l
 - Proyectos de software open source
 - Tecnologías emergentes
 
-## 🎥 Próximamente en Twitch
+## 🎥 Próximamente en Twitch/kick
 
 Pronto estaré compartiendo contenido en mi [canal de Twitch]([enlace_a_tu_twitch](https://www.twitch.tv/jaco_dev)) sobre:
 
