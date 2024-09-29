@@ -29,4 +29,11 @@ Pronto estaré compartiendo contenido en mi [canal de Twitch]([enlace_a_tu_twitc
 - [Twitter](https://x.com/Jaco_Dev)
 - [LinkedIn](https://www.linkedin.com/in/jacoher/)
 
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jacoher&show_icons=true&theme=radical&hide=prs,issues)
+  
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoher&layout=compact&theme=radical)
+
+
 ¡Gracias por visitar mi perfil!
