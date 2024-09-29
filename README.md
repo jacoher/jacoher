@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por la **programación**, el **open source** y l
 
 ## 🎥 Próximamente en Twitch/kick
 
-Pronto estaré compartiendo contenido en mi [canal de Twitch]([enlace_a_tu_twitch](https://www.twitch.tv/jaco_dev)) sobre:
+Pronto estaré compartiendo contenido en mi [canal de Twitch](https://www.twitch.tv/jaco_dev) sobre:
 
 - **Programación en vivo**: desde la creación de pequeños proyectos hasta el desarrollo de aplicaciones más complejas.
 - **Noticias de tecnología**: lo último sobre innovación tecnológica, open source y más.
