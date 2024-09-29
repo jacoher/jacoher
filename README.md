@@ -23,7 +23,7 @@ Pronto estaré compartiendo contenido en mi [canal de Twitch](https://www.twitch
 - **Programación en vivo**: desde la creación de pequeños proyectos hasta el desarrollo de aplicaciones más complejas.
 - **Noticias de tecnología**: lo último sobre innovación tecnológica, open source y más.
 - **Open Source**: Contribuyendo a proyectos y ayudando a otros a unirse al movimiento open source.
-- **Onteligencia Artificial**: Exploraremos el desarrollo de IA, su impacto y aplicaciones prácticas en el desarrollo de software.
+- **Inteligencia Artificial**: Exploraremos el desarrollo de IA, su impacto y aplicaciones prácticas en el desarrollo de software.
 
 
 ## 📫 Cómo contactarme
